@@ -1,0 +1,25 @@
+
+#content {
+		 background-color:brown;
+		 }
+
+	strong {font-size:1.5em;
+	       font-style: arial;
+		   color:black;}	 
+	
+	p {color:white;
+	}
+	
+	ul {
+	  background-color:gray;
+	
+	 	  }
+	
+	ul > li { color:blue;}
+	
+#activitymain {
+			border: 1pt blue solid; 
+			}
+	
+#content > #acronym {background-color:black;
+}
